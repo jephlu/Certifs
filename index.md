@@ -1,5 +1,6 @@
-# Microsoft Official Poster :
-[Become Microsoft Certified - PDF](http://aka.ms/trainCertPoster)
+# Microsoft Official Poster
+
+- [Become Microsoft Certified - PDF](http://aka.ms/trainCertPoster)
  
 # Azure
 
