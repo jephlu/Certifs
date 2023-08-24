@@ -11,15 +11,16 @@ a simple page to centralize MS certifications links !
 - [Certification support](https://aka.ms/CertificationSupport)
 - [Certification poster - Become Microsoft Certified ](https://aka.ms/trainCertPoster)
 
-# Training decks [PDF]
+# Training decks, journey
 
 - [Microsoft training and certification guides](https://aka.ms/trainingCertDeck)
 - [Microsoft Azure training and certifications](https://aka.ms/AzureTrainCertDeck)
 - [Microsoft Dynamics 365 training and certifications](https://aka.ms/D365TrainCertDeck)
 - [Microsoft 365 training and certifications](https://aka.ms/M365TrainCertDeck)
 - [Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck)
-- [Microsoft Security, Compliance, and Identity training and certifications](https://aka.ms/SecurityTrainCertDeck)
+- [Microsoft Security, Compliance, and Identity training and certifications](https://aka.ms/SecurityTrainCertDeck)  
 
+- [Microsoft Azure Training Journey](http://aka.ms/AzureTrainingJourney)
  
 # Azure
 
