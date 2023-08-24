@@ -1,3 +1,7 @@
+# Microsoft Certifications Resources
+a simple page to centralize MS certifications links !
+
+
 # Global
 
 - [Microsoft Learn - Training](https://learn.microsoft.com/training)
