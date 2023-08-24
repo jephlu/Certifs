@@ -1,6 +1,21 @@
-# Microsoft Official Poster
+# Global
 
-- [Become Microsoft Certified - PDF](http://aka.ms/trainCertPoster)
+- [Microsoft Learn - Training](https://learn.microsoft.com/training)
+- [Microsoft Learn - Certifications](https://learn.microsoft.com/certifications/)
+- [Microsoft Learn - Practice Assessments](https://aka.ms/practiceassessments)
+- [Microsoft Learning Partners](https://learn.microsoft.com/certifications/partners)
+- [Certification support](https://aka.ms/CertificationSupport)
+- [Certification poster - Become Microsoft Certified ](https://aka.ms/trainCertPoster)
+
+# Training decks [PDF]
+
+- [Microsoft training and certification guides](https://aka.ms/trainingCertDeck)
+- [Microsoft Azure training and certifications](https://aka.ms/AzureTrainCertDeck)
+- [Microsoft Dynamics 365 training and certifications](https://aka.ms/D365TrainCertDeck)
+- [Microsoft 365 training and certifications](https://aka.ms/M365TrainCertDeck)
+- [Microsoft Power Platform training and certifications](https://aka.ms/PPTrainCertDeck)
+- [Microsoft Security, Compliance, and Identity training and certifications](https://aka.ms/SecurityTrainCertDeck)
+
  
 # Azure
 
